@@ -1,0 +1,11 @@
+# YouTube Video Clipper
+
+A simple Python script to download and clip YouTube videos.
+
+## Requirements
+- Python 3.8+
+- yt-dlp
+- FFmpeg
+
+## Installation
+1. Clone the repository:
